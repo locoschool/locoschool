@@ -2,3 +2,8 @@ site_name: LOCO School
 site_url: https://tatarchm.github.io/locoschool
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Sessions: sessions.md
+  - Cheatsheet: cheatsheet.md
+  - Useful links: links.md
