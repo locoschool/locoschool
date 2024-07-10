@@ -20,7 +20,7 @@
 
 **Task 1**
 
-Write a program to that shows something on the built-in LED matrix
+Write a program that shows something on the built-in LED matrix
 
 **Task 2**
 
