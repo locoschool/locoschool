@@ -4,6 +4,3 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Sessions: sessions.md
-  - Cheatsheet: cheatsheet.md
-  - Useful links: links.md
