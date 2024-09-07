@@ -1,3 +1,15 @@
 # LOCO School
 
-This is a website for LOCO School documentation.
+## Courses
+
+- [Course plan](courses.md)
+
+## Cheatsheets
+
+- [Hardware](cheatsheets/hardware_cheatsheet.md)
+- [Coding](cheatsheets/coding_cheatsheet.md)
+
+## Other
+
+- [Useful links](links.md)
+- [Marketing](marketing.md)

@@ -1,6 +1,12 @@
-# Course content
+# Courses
 
-## Topics to cover
+## Smart home (Autumn 2024)
+
+### Sessions
+
+- [Session 1: Introduction](sessions/s1.md)
+
+### Topics
 
 *Not necessarily in this order*
 
@@ -16,8 +22,3 @@
 - [Debugging (serial print)](topics/debugging.md)
 - Using external libraries
 - 3D design & printing?
-
-## Sessions
-
-- [Session 1](sessions/s1.md)
-- [Session 2](sessions/s2.md)
