@@ -25,7 +25,7 @@
 `Serial.println(value)` то же самое, что `Serial.print`, но с переносом строки
 
 ```c
-# Example
+// Example
 
 void setup(){
     Serial.begin(115200);
@@ -45,7 +45,7 @@ void loop(){
 `digitalWrite(pin, value)` вывести на пин номер `pin` значение `value` (`HIGH` или `LOW`)
 
 ```c
-# Example
+// Example
 
 void setup(){
     pinMode(13, OUTPUT);
@@ -67,7 +67,7 @@ void loop(){
 [Таблица частот музыкальных нот](https://upload.wikimedia.org/wikipedia/commons/a/ad/Piano_key_frequencies.png)
 
 ```c
-# Example
+// Example
 
 void loop(){
     tone(10, 440, 100);
