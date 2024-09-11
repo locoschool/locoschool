@@ -11,6 +11,7 @@ This course focuses much heavier on programming. We are going to discuss some fu
 ### Sessions
 
 - [Session 1: Introduction](sessions/s1.md)
+- [Session 2: Loops & conditionals](sessions/s2.md)
 
 ### Topics
 
